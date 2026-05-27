@@ -1,0 +1,15 @@
+# 原始抓取数据 (可用 fetch_koc.py 重新抓, 不入仓库节省空间)
+_raw/
+
+# yfinance 本地缓存
+_price_cache.json
+
+# 日志
+*.log
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
